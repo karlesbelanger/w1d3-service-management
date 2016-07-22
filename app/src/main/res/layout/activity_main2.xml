@@ -7,11 +7,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ca.kgb.servicemanagement.MainActivity">
+    tools:context="ca.kgb.servicemanagement.Main2Activity">
 
     <Button
-        android:text="To Activity 2"
+        android:text="To Activity  1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="doMagic"/>
+        android:onClick="doMagic2"/>
+
+
 </RelativeLayout>
